@@ -278,7 +278,7 @@ You can add screenshots of the application here.
 
 Example:
 
-![Student Grade Management System](screenshots/dashboard.png)
+![Student Grade Management System]<img width="960" height="540" alt="Screenshot 2026-09-25 135926" src="https://github.com/user-attachments/assets/c85dccae-db6e-42d4-9e0a-fa834720bcd9" />
 
 Future Improvements
 
